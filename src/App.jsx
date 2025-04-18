@@ -30,7 +30,7 @@ function App () {
 			Click on the Vite and React logos to learn more
 			</p>
 			<footer style={{ marginTop: '2rem', borderTop: '1px solid #ddd', paddingTop: '1rem' }}>
-				<p>Git Training Demo - 2025</p>
+				<p>Git Training Demo</p>
 			</footer>
 		</>
 	  )
